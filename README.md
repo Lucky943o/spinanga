@@ -1,2 +1,0 @@
-# spinanga
-spinanga site
